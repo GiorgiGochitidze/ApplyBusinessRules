@@ -12,3 +12,4 @@ D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ref
 D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ApplyBusinessRules.pdb
 D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ApplyBusinessRules.genruntimeconfig.cache
 D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ref\ApplyBusinessRules.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ApplyBusinessRules.sourcelink.json
