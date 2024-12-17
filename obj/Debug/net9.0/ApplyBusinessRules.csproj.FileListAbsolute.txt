@@ -1,0 +1,14 @@
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\bin\Debug\net9.0\ApplyBusinessRules.exe
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\bin\Debug\net9.0\ApplyBusinessRules.deps.json
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\bin\Debug\net9.0\ApplyBusinessRules.runtimeconfig.json
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\bin\Debug\net9.0\ApplyBusinessRules.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\bin\Debug\net9.0\ApplyBusinessRules.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ApplyBusinessRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ApplyBusinessRules.AssemblyInfoInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ApplyBusinessRules.AssemblyInfo.cs
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ApplyBusinessRules.csproj.CoreCompileInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ApplyBusinessRules.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\refint\ApplyBusinessRules.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ApplyBusinessRules.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ApplyBusinessRules.genruntimeconfig.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ApplyBusinessRules\obj\Debug\net9.0\ref\ApplyBusinessRules.dll
